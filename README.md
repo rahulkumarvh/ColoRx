@@ -28,7 +28,7 @@ Below document gives an overview of the user research we conducted to understand
 
 ## Current Solutions
 
-Pill Organizers, Reminder Apps, In-person Caretaker/Medecine management services
+Pill Organizers, Reminder Apps, In-person Caretaker/Medecine management services <br /><br />
 Flaws of these are:
 - Too complicated, lack of essential features, no consideration for diverse demographic like senior users.
 - Not user friendly/accessible
